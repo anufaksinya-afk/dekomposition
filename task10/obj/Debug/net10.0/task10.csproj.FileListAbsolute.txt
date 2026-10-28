@@ -1,0 +1,14 @@
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/bin/Debug/net10.0/task10
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/bin/Debug/net10.0/task10.deps.json
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/bin/Debug/net10.0/task10.runtimeconfig.json
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/bin/Debug/net10.0/task10.dll
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/bin/Debug/net10.0/task10.pdb
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/task10.AssemblyInfoInputs.cache
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/task10.AssemblyInfo.cs
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/task10.csproj.CoreCompileInputs.cache
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/task10.dll
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/refint/task10.dll
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/task10.pdb
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/task10.genruntimeconfig.cache
+/Users/anuf-aksinyamail.ru/Desktop/Декомпозиция/task10/obj/Debug/net10.0/ref/task10.dll
